@@ -11,7 +11,7 @@ end
 end
 return {
 patterns = {
-    "^#(جق) (.*)$",
+    "^#(jagh) (.*)$",
 },
 run = run
 }
