@@ -90,6 +90,8 @@ function run(msg, matches)
 ●#info
 دادن مشخصات
 
+fuck you
+
 .......................................
 📡
 - @BeatBot_Team
