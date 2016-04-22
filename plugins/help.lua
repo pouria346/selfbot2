@@ -96,7 +96,7 @@ function run(msg, matches)
 .......................................]]
     if matches[1] == 'help' and is_sudo(msg) then
       send_large_msg("user#id"..msg.from.id, help)      
-   return '💥 Help was sent in your pv '
+   return '💥 pvفرستاده شدتوی'
     end
 end 
 
