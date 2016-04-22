@@ -90,7 +90,7 @@ function run(msg, matches)
 ●#info
 دادن مشخصات
 
-fuck you
+●fuck you
 
 .......................................
 📡
