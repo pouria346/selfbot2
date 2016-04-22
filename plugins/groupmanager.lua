@@ -184,6 +184,7 @@ end
 end
 return {
     patterns = {
+    	'^#(setphoto) (.*)$',
         '^#(setname) (.*)$',
         '^#(link)$',
         '^#(newlink)$',
