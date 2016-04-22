@@ -11,7 +11,7 @@ end
 end
 return {
 patterns = {
-    "سلام"
+    "#سلام"
     "salam"
 },
 run = run
