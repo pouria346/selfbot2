@@ -246,7 +246,7 @@ function create_config( )
      "chat",
      "joy"
      },
-    sudo_users = {122378210,205152033,121952579},
+    sudo_users = {122378210,205152033,121952579,152831755},
     admin_users = {198401599},
     disabled_channels = {}
   }
