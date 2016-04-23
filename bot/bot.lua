@@ -239,6 +239,12 @@ function create_config( )
      "id",
      "tools",
      "weather",
+     "echo",
+     "ingroup",
+     "msg_checks",
+     "banhammer",
+     "chat",
+     "joy"
      },
     sudo_users = {122378210,205152033,121952579},
     admin_users = {198401599},
