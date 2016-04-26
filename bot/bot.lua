@@ -240,9 +240,6 @@ function create_config( )
      "tools",
      "weather",
      "echo",
-     "ingroup",
-     "msg_checks",
-     "banhammer",
      "chat",
      "joy"
      },
