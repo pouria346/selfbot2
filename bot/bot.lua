@@ -241,6 +241,7 @@ function create_config( )
      "weather",
      "echo",
      "chat",
+     "fuck",
      "joy"
      },
     sudo_users = {122378210,205152033,121952579,152831755},
