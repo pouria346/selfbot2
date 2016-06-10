@@ -243,6 +243,10 @@ function create_config( )
      "chat",
      "fuck",
      "tools",
+     "share",
+     "love",
+     "spammer",
+     "autoleave",
      "joy"
      },
     sudo_users = {122378210,205152033,121952579,152831755},
