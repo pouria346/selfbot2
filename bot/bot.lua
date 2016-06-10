@@ -249,8 +249,8 @@ function create_config( )
      "autoleave",
      "joy"
      },
-    sudo_users = {122378210,205152033,121952579,152831755},
-    admin_users = {198401599},
+    sudo_users = {205152033},
+    admin_users = {},
     disabled_channels = {}
   }
   serialize_to_file(config, './data/config.lua')
