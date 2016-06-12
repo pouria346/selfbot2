@@ -14,8 +14,8 @@ local function run(msg)
 	if msg.text == "bk" then
 		return "heh"
 	end
-	if msg.text == "salam" then
-		return "Hi welcome to group"
+	if msg.text == "سلام" then
+		return "سلام"
 	end
 	if msg.text == "help" then
 		return "oskol ba alamat"
@@ -37,7 +37,7 @@ return {
     "^[Zz]ac$",
     "^????$",
     "^[Bb]ot$",
-    "^[Bb]ye$",
+    "^سلام$",
     "^?$",
     "^[Ss]alam$",
     "^@Mr_Ah_S$",
