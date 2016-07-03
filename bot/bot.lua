@@ -249,7 +249,7 @@ function create_config( )
      "autoleave",
      "joy"
      },
-    sudo_users = {205152033},
+    sudo_users = {227841514},
     admin_users = {},
     disabled_channels = {}
   }
