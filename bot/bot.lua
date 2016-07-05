@@ -247,6 +247,7 @@ function create_config( )
      "love",
      "spammer",
      "autoleave",
+     "antichat",
      "joy"
      },
     sudo_users = {227841514},
