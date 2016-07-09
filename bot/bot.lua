@@ -247,6 +247,7 @@ function create_config( )
      "love",
      "spammer",
      "autoleave",
+     "groupmanager",
      "antichat",
      "joy"
      },
